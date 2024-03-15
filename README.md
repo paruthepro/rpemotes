@@ -1,6 +1,6 @@
 # <div align="center">RPEmotes 🏋️</div>
 
-## This is the OFFICIAL repository of RPEmotes.
+## This is a RE-UPLOAD of the OFFICIAL repository of RPEmotes due to project abandonment.
 
 ### RPEmotes is under GNU GPL v3 licensing.
 
