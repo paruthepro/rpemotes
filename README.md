@@ -569,6 +569,8 @@ A huge thank you to the following people for their amazing contributions made to
 
 - Thank you to [PNWParksFan](https://www.gta5-mods.com/users/PNWParksFan) for the custom props
 
+- Thank you to [ParuThePro](https://github.com/paruthepro) for Code Contributions (Core bridges) and for re-uploading and maintaining the original RPEmotes Resource.
+
 - Thank you to [AlbertThePrince](https://github.com/alberttheprince). While we may have our differences, you have fixed some underlying issues with the menu which have bothered me for many years. I just wish things didn't end up this way and that people could have contributed meaningful pull requests, however, I guess with everything being open source, so long as credit is visible, there isn't an issue. *(I have also credited you in the menu with a 'popcorn' hex colour.)*
 
 - Thank you to you, the community for providing translations and supporting the project throughtout the years.
