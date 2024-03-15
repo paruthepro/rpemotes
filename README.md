@@ -193,7 +193,7 @@ The keybind uses RegisterKeyMapping. By default the configured keybind in the *i
 
 |COMMAND: | ACTION:|
 |---|---|
-| F4 | Open / Close  RPEmotes menu |
+| F6 | Open / Close  RPEmotes menu |
 
 Server owners can change this in the `config.lua`.
 
